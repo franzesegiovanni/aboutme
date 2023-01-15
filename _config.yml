@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://franzesegiovanni.github.io/aboutme # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "franzesegiovanni/aboutme"  # "academicpages/academicpages.github.io"
-teaser                   : "picture.png"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "picture_crop.png"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "PhD Student in Robotics"
-  avatar           : "picture.png"
+  avatar           : "picture_crop.png"
   bio              : " Researching on Robot Manipulation and Gaussian Process"
   location         : "TU Delft"
   employer         :
