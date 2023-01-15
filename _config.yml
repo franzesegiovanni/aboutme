@@ -11,7 +11,7 @@ title                    : "Giovanni Franzese"
 title_separator          : "-"
 name                     : &name "Giovanni Franzese"
 description              : &description "personal description"
-url                      : https://franzesegiovanni.github.io/aboutme/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://franzesegiovanni.github.io/aboutme # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "franzesegiovanni/aboutme"  # "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "About Giovanni Franzese"
+  name             : "PhD Student in Robotics"
   avatar           : "profile.png"
-  bio              : "PhD Student in Robotics"
+  bio              : " Researching on Robot Manipulation and Gaussian Process"
   location         : "TU Delft"
   employer         :
   pubmed           : 
@@ -228,13 +228,13 @@ defaults:
       share: true
       comments: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
