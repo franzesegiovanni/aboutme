@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  repositories:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -227,6 +229,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: repositories
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true    
   # _talks
   #- scope:
   #    path: ""
