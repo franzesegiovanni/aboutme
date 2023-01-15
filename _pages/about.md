@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome, my name is Giovanni and I am a PhD Student in Robotics from TU Delft"
+title: "Welcome, my name is Giovanni!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
