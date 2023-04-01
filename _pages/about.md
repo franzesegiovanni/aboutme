@@ -10,6 +10,6 @@ redirect_from:
  
  My name is Giovanni and I am a PhD Student in Robotics @ TU Delft in the Netherlands! 
 
- ## News
+## News
 
 - **2021** Winner of BEST LATE BREAKING RESULTS POSTER AWARD @ IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
