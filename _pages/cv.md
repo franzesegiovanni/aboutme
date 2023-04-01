@@ -40,3 +40,4 @@ Education
     Milano, Italy \
     Sept 2013 - Sept 2016    
   
+[Download full CV here](https://franzesegiovanni.github.io/aboutme/files/CV_Giovanni_Franzese.pdf)
