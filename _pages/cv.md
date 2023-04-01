@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download full CV here](https://franzesegiovanni.github.io/aboutme/files/CV_Giovanni_Franzese.pdf)
+
 Education
 ======
 *   PhD in Interactive Imitation Learning for Robotics in Department of Cognitive Robotics.  \  
@@ -40,4 +42,3 @@ Education
     Milano, Italy \
     Sept 2013 - Sept 2016    
   
-[Download full CV here](https://franzesegiovanni.github.io/aboutme/files/CV_Giovanni_Franzese.pdf)
