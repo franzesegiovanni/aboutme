@@ -9,4 +9,4 @@ redirect_from:
 ---
  My name is Giovanni and I am a PhD Student in Robotics @ TU Delft in the Netherlands! 
 
-:dart:
+I love robotics! :heart_eyes:
