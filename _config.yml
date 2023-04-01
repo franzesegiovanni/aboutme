@@ -83,7 +83,7 @@ author:
   name             : "PhD Student in Robotics"
   avatar           : "picture_crop.png"
   bio              : " Researching on Robot Manipulation and Gaussian Process"
-  location         : "Delft"
+  location         : 
   employer         :  "Delft University of Tecnology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=nl&user=F1weUA8AAAAJ"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : https://www.youtube.com/channel/UCvi9x83aOWiOd7SZaRwJH0Q 
+  youtube          : "https://www.youtube.com/channel/UCvi9x83aOWiOd7SZaRwJH0Q" 
   wikipedia        :
 
 
