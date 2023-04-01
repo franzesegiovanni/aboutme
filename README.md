@@ -1,2 +1,2 @@
 
-# Work in progress!
+# This is the source repository of Giovanni Franzese's website
