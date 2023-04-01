@@ -83,11 +83,11 @@ author:
   name             : "PhD Student in Robotics"
   avatar           : "picture_crop.png"
   bio              : " Researching on Robot Manipulation and Gaussian Process"
-  location         : "TU Delft"
-  employer         :
+  location         : "Delft"
+  employer         :  "Delft University of Tecnology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=nl&user=F1weUA8AAAAJ"
-  email            :
+  email            : g.franzese@tudelft.nl
   researchgate     : 
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/channel/UCvi9x83aOWiOd7SZaRwJH0Q 
   wikipedia        :
 
 
