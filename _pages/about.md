@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Short Bio
+ 
  My name is Giovanni and I am a PhD Student in Robotics @ TU Delft in the Netherlands! 
 
  # News
