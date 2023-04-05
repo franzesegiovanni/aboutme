@@ -13,7 +13,7 @@ My research and expertise focus on control of robot manipulation, learning compl
 
 ## News
 - **3/2023** I am leading the team of TU Delft in the International [Robothon Manipulation Challenge 2023](https://automatica-munich.com/en/munich-i/robothon/)! 
-- **9/2022** I joined the Statistical Machine Learning Group of Marc Deisenroth in University College London for 6 months. 
+- **9/2022** I joined the [Statistical Machine Learning Group] (https://www.sml-group.cc/) of Marc Deisenroth in University College London for 6 months. 
 - **10/2022** I was awarded with the [TAILOR](https://tailor-network.eu/connectivity-fund/) connectivity found  
 - **8/2022** I became an [ELLIS](https://ellis.eu/letter) PhD Student
 - **6/2022** Winner Franka‑Emika Manipulation Hackathon at the [European Robotics Forum](https://www.youtube.com/watch?v=eqpV09Kuc_o). Interactive Imitation Learning 
