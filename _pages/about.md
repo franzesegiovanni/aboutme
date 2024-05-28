@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
  
- My name is Giovanni and I am a PhD Student in Robotics @ TU Delft in the Netherlands. 
+ My name is Giovanni and I am a PostDoc in Robotics @ TU Delft in the Netherlands. 
 I grew up in a small town near the Mount Vesuvius in Italy. In 2013, I moved to Milano where I studied Mechanical Engineering at Politecnico di Milano (PoliMi). In 2018, I obtained my MSc degree with a specialization in Mechatronics and Robotics with the thesis "On computing second derivatives in optimal motion planning for robot manipulators". In 2019, I started my PhD in Robotics at the department of Cognitive Robotics of TU Delft in the Netherlands under the supervision of Jens Kober. 
 My research and expertise focus on control of robot manipulation, learning complex manipulation policies from human demonstration and feedback, bayesian machine learning with a particular focus on Gaussian Process combined with Deep Learning tecniques.
  I have many hours of experience in programming (real) robot controllers and fitting machine learning models but without forgetting the importance of theory advancement made only with pen and paper. 
 
 ## News
+- **9/2024** I am starting as PostDoc at TU Delft with Cosimo Della Santina, working on NXTGEN project and working on Robot manipulation of deformable objects.
 - **3/2023** I am leading the team of TU Delft in the International [Robothon Manipulation Challenge 2023](https://automatica-munich.com/en/munich-i/robothon/)! 
 - **9/2022** I joined the [Statistical Machine Learning Group](https://www.sml-group.cc/) of Marc Deisenroth in University College London for 6 months. 
 - **10/2022** I was awarded with the [TAILOR](https://tailor-network.eu/connectivity-fund/) connectivity fund  

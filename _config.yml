@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "PhD Student in Robotics"
+  name             : "PostDoc in Robotics"
   avatar           : "picture_crop.png"
   bio              : " Researching on Robot Manipulation and Gaussian Process"
   location         : 
-  employer         :  "Delft University of Tecnology"
+  employer         :  "TU Delft"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=nl&user=F1weUA8AAAAJ"
   email            : g.franzese@tudelft.nl
@@ -229,7 +229,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _repositories
   - scope:
       path: ""
       type: repositories
@@ -238,14 +238,6 @@ defaults:
       author_profile: true
       share: true
       comments: true    
-  # _talks
-  #- scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
 
 # Sass/SCSS
 sass:
@@ -257,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
