@@ -1,9 +1,6 @@
 ---
 title: "Fraka Human Friendly Controllers"
 collection: repositories
-paperurl: https://github.com/franzesegiovanni/franka_human_friendly_controllers
 description: "This repository contains the code for the paper 'Human-friendly controllers for safe and intuitive robot control'."
-excerpt: "Short description of portfolio item number 1<br/><img src='/_publications/IIL.pdf'>"
+excerpt: "This lecture is designed for Master students in Robotics, Control or Machine Learning. <img src='https://franzesegiovanni.github.io/aboutme/images/human_friendly.png' width='400'> "
 ---
-
-This repo bla bla bla
