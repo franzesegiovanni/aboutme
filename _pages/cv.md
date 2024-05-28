@@ -13,6 +13,12 @@ redirect_from:
 
 Education
 ======
+
+* POSTDOC in Robotics in Department of Cognitive Robotics.  \  
+    Mentor: Cosimo Della Santina. \
+    Delft University of Technology \
+    Delft, Netherlands \
+    Sep. 2023 - Present
 *   PhD in Interactive Imitation Learning for Robotics in Department of Cognitive Robotics.  \  
     Thesis: Uncertainty-aware Interactive Imitation Learning for Robot Manipulation. \
     Mentor: Jens Kober, Luka Peternel. \
