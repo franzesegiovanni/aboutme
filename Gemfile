@@ -25,3 +25,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# Jekyll 3.x on Ruby 3 no longer bundles WEBrick, add explicitly for `jekyll serve`.
+gem "webrick", "~> 1.8"

@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,42 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV here](https://franzesegiovanni.github.io/aboutme/files/CV_Giovanni_Franzese.pdf)
+<div class="cv-actions" style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center; margin-bottom:1rem;">
+    <a class="btn btn--primary" href="{{ base_path }}/files/CV_Giovanni_Franzese.pdf" download>⬇️ Download PDF</a>
+    <a class="btn" href="{{ base_path }}/files/CV_Giovanni_Franzese.pdf" target="_blank" rel="noopener">Open in new tab</a>
+    <span style="font-size:0.8rem; opacity:0.75;">Last updated: <script>document.write(new Date().getFullYear());</script></span>
+</div>
 
-Education
-======
+<div class="cv-embed-wrapper" style="position:relative; padding-top:0;">
+    <object data="{{ base_path }}/files/CV_Giovanni_Franzese.pdf" type="application/pdf" width="100%" height="1000" aria-label="Embedded CV PDF">
+        <iframe src="{{ base_path }}/files/CV_Giovanni_Franzese.pdf" title="CV PDF" width="100%" height="1000" style="border:0;">
+        </iframe>
+    </object>
+</div>
 
-* POSTDOC in Robotics in Department of Cognitive Robotics.  \  
-    Mentor: Cosimo Della Santina. \
-    Delft University of Technology \
-    Delft, Netherlands \
-    Sep. 2023 - Present
-*   PhD in Interactive Imitation Learning for Robotics in Department of Cognitive Robotics.  \  
-    Thesis: Uncertainty-aware Interactive Imitation Learning for Robot Manipulation. \
-    Mentor: Jens Kober, Luka Peternel. \
-    Delft University of Technology \
-    Delft, Netherlands \
-    June. 2019 - June 2023 
- 
- *   Visiting PhD in Statistical Machine Learning group. \
-    Mentor: Marc Deisenroth \
-    University College London. \
-    London United Kingdom. \
-    Sep. 2022 - Feb 2023.
-    
-*   ERASMUS+ Master thesis in Department of Dynamics and Control. Mentor: Alessandro Saccon \
-    Eindhoven University of Technology \
-    Eindhoven, Netherlands \
-    Feb. 2018 - July 2018  
-    
-*   Masters Degree in Mechatronics and Robotics (107/110) \
-    Politecnico di Milano \
-    Milano, Italy \
-    Sept. 2016 - Dec. 2018 
- 
-  
-*   Bachelor Degree in Mechanical Engineering (104/110) \
-    Politecnico di Milano \
-    Milano, Italy \
-    Sept 2013 - Sept 2016    
+<noscript>
+    <p>PDF embedding requires JavaScript for the dynamic year display, but you can still <a href="{{ base_path }}/files/CV_Giovanni_Franzese.pdf">download the CV here</a>.</p>
+</noscript>
+
+---
+
+### Plain Text Summary (Optional)
+
+If you prefer a quick textual overview, you can keep (or reintroduce) a summarized section here. Let me know if you want this auto-generated from a YAML data file.
   

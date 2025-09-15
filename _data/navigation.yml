@@ -1,20 +1,18 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Repos"
-    url: /repositories/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  # Temporarily showing only CV in the top navigation.
+  # Other sections commented out below for easy restoration.
   - title: "CV"
     url: /cv/
+
+  # - title: "Publications"
+  #   url: /publications/
+  # - title: "Repos"
+  #   url: /repositories/
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Teaching"
+  #   url: /teaching/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     

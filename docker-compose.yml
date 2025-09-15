@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  site:
+    build: .
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    environment:
+      JEKYLL_ENV: development
+    command: bash -lc "bundle install && bundle exec jekyll serve --config _config.yml,_config.dev.yml --host 0.0.0.0 --livereload --force_polling"
+    volumes:
+      - .:/site
+      - bundle_cache:/site/vendor/bundle
+volumes:
+  bundle_cache:

@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "PostDoc in Robotics"
+  name             : "Giovanni Franzese, PhD"
   avatar           : "picture_crop.png"
-  bio              : "Researching on Robot Manipulation and Gaussian Process"
+  bio              : "Researching on Large Bahavioural Modeling for Robot Manipulation"
   location         : 
-  employer         :  "TU Delft"
+  employer         :  "Technology Innovation Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=nl&user=F1weUA8AAAAJ"
-  email            : g.franzese@tudelft.nl
+  email            : franzesegiovanni@outlook.com
   researchgate     : 
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :  
+  youtube          :  "@giofranzese"
   wikipedia        :
 
 
