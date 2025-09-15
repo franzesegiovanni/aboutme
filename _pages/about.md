@@ -21,7 +21,7 @@ and efficient robot learning, with applications in single‑arm and bimanual man
 
 <div id="journey-map-mini" class="journey-mini" aria-label="Mini map of my academic journey"></div>
 <div id="journey-legend-mini" class="journey-legend journey-legend-mini"></div>
-<p class="journey-more"><a href="/journey/">View full interactive journey →</a></p>
+
 ## News
 - **1/3/2025** 🦾 I joined the Humanoid Lab of Technology Innovation Institute as a Senior Researcher on robot manipulation.
 - **4/11/2024** 🎓 I succesfully defended my PhD thesis "Uncertainty-aware Interactive Imitation Learning for Robot Manipulation" at TU Delft!
