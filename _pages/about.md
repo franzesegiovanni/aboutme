@@ -27,7 +27,7 @@ and efficient robot learning, with applications in single‑arm and bimanual man
 - **4/11/2024** 🎓 I succesfully defended my PhD thesis "Uncertainty-aware Interactive Imitation Learning for Robot Manipulation" at TU Delft!
 - **17/10/2024** 🏆 My team won the Eurobin Manipulation Challenge at IROS 2024 in Abu Dhabi.  
 - **9/2023** 🍅 I started as PostDoc at TU Delft (NXTGEN project) focusing on manipulation of deformable for green house applications (NWO funded) supervised by Cosimo Della Santina.
-- **3/2023** 🛠️ I am leading the TU Delft team in the International [Robothon Manipulation Challenge 2023](https://automatica-munich.com/en/munich-i/robothon/).
+- **3/2023** 🛠️ I led the TU Delft team in the International [Robothon Manipulation Challenge 2023](https://automatica-munich.com/en/munich-i/robothon/).
 - **9/2022** 🇬🇧 I joined the [Statistical Machine Learning Group](https://www.sml-group.cc/) supervised by Marc Deisenroth at UCL for 6 months.
 - **10/2022** ✈️ I was awarded the [TAILOR](https://tailor-network.eu/connectivity-fund/) connectivity fund.
 - **8/2022** 🇪🇺 I became an [ELLIS](https://ellis.eu/letter) PhD Student.
